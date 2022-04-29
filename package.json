@@ -1,0 +1,26 @@
+{
+  "name": "refactoring",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest"
+  },
+  "keywords": [],
+  "author": "oscarmtz",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscardanielM/Fizzbuzz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oscardanielM/Fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/oscardanielM/Fizzbuzz#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.0"
+  },
+  "devDependencies": {
+    "jest": "^28.0.2"
+  }
+}
